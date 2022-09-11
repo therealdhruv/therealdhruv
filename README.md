@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on o'town
 - 🌱 I’m currently learning android dev
 - 🤔 I’m looking for help with kotlin
-- 📫 How to reach me : [Twitter](https://twitter.com/thereal_dhruv) 
+- 📫 How to reach me : [Twitter](target = "blank" https://twitter.com/thereal_dhruv) 
 - 😄 Pronouns: he/him
 <!-- - 
 - 👯 I’m looking to collaborate on ...
