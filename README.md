@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on o'town
 - 🌱 I’m currently learning android dev
 - 🤔 I’m looking for help with kotlin
-<!--
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ... -->
 - 📫 How to reach me : twitter -> @thereal_dhruv 
 - 😄 Pronouns: he/him
+- <!--
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ... -->
 <!--
 - ⚡ Fun fact: ...
 -->
