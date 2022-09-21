@@ -1,4 +1,4 @@
-### Hi there 👋 I am Dhruv Pankaj Patel
+### Hi there 👋 I am Dhruv
 
 <!--
 **therealdhruv/therealdhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
