@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on o'town
 - 🌱 I’m currently learning android dev
 - 🤔 I’m looking for help with kotlin -->
-- 📫 How to reach me : [Twitter](https://twitter.com/thereal_dhruv) or [LinkedIn](linkedin.com/in/therealdhruv)
+- 📫 How to reach me : [Twitter](https://twitter.com/thereal_dhruv) or [LinkedIn](https://www.linkedin.com/in/therealdhruv/)
 - 😄 Pronouns: he/him
 <!-- - 
 - 👯 I’m looking to collaborate on ...
