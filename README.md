@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with kotlin -->
 - 📫 How to reach me : [Twitter](https://twitter.com/thereal_dhruv) or [LinkedIn](https://www.linkedin.com/in/therealdhruv/)
 - 😄 Pronouns: he/him
-- 🚀 I am currently learning Web Development and Flutter
+- 🚀 I am currently learning Web Development 
 <!-- - 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ... -->
