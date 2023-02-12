@@ -1,13 +1,6 @@
 ### Hi there 👋 I am Dhruv
 
-<!--
-**therealdhruv/therealdhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on o'town
-- 🌱 I’m currently learning android dev
-- 🤔 I’m looking for help with kotlin -->
 - 😄 Pronouns: he/him
 - 🚀 I am currently learning Web Development 
 
@@ -19,12 +12,6 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
    </div>
-<!-- - 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ... -->
-<!--
-- ⚡ Fun fact: ...
--->
 
 
     
