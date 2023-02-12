@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning android dev
 - 🤔 I’m looking for help with kotlin -->
 - 📫 How to reach me : 
--   <a href="[your-linkedin-URL](https://www.linkedin.com/in/therealdhruv/)">
+   <a href="[your-linkedin-URL](https://www.linkedin.com/in/therealdhruv/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     
