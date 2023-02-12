@@ -10,11 +10,11 @@
 - 🤔 I’m looking for help with kotlin -->
 - 📫 How to reach me : <br>
     <div>
-   <a href="[your-linkedin-URL](https://www.linkedin.com/in/therealdhruv/)">
+   <a href="[https://www.linkedin.com/in/therealdhruv/]">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   
-    <a href="[your-twitter-URL](https://twitter.com/thereal_dhruv)">
+    <a href="[https://twitter.com/thereal_dhruv]">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
    </div>
