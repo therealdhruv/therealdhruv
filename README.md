@@ -11,6 +11,7 @@
 - 😄 Pronouns: he/him
 - 🚀 I am currently learning Web Development 
 - 📫 How to reach me : 
+    <br>
     <div>
          <a href="https://www.linkedin.com/in/therealdhruv/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
