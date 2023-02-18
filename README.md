@@ -3,8 +3,8 @@
 
 - 😄 Pronouns: he/him
 - 🔭 Trying to ace in the field of Computer Science
-- 🚀 I am currently learning Web Development 
-
+- 🚀 I am currently learning Web Development <br> <br>
+Connect with me : <br> <br>
     <div>
          <a href="https://www.linkedin.com/in/therealdhruv/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
