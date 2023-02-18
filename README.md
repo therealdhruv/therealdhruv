@@ -2,6 +2,7 @@
 
 
 - 😄 Pronouns: he/him
+- 🔭 Trying to ace in the field of Computer Science
 - 🚀 I am currently learning Web Development 
 
     <div>
