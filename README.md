@@ -7,6 +7,7 @@
 
 - 😄 Pronouns: he/him
 - 🔭 Trying to ace in the field of Computer Science
+- 💞️ I’m looking to collaborate on web development projects
 - 🚀 I am currently learning Web Development <br> <br>
 Connect with me : <br> <br>
     <div>
