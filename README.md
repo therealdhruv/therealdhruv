@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - 🔭 Trying to ace in the field of Computer Science
 - 💞️ I’m looking to collaborate on web development projects
-- 🚀 I am currently learning Web Development <br> <br>
+- 🚀 I am currently learning various frontend technologies <br> <br>
 Connect with me : <br> <br>
     <div>
          <a href="https://www.linkedin.com/in/therealdhruv/">
