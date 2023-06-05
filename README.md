@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://twitter.com/thereal_dhruv" target="blank"><img src="https://img.shields.io/twitter/follow/thereal_dhruv?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning backend technologies and various algorithms
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about Reactjs and Java
 
 - 📫 How to reach me **dhruvkochi@gmail.com**
 
